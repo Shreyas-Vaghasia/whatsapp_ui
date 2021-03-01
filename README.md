@@ -1,6 +1,5 @@
 # whatsapp_ui
-
-A new Flutter project.
+Whatsapp UI homescreen made in Flutter.
 
 ## Getting Started
 
